@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "practicoexperimental01/1.0.0": {
+        "runtime": {
+          "practicoexperimental01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicoexperimental01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
